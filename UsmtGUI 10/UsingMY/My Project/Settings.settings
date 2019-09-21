@@ -1,0 +1,267 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LocalUsmtDriveLetter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">F</Value>
+    </Setting>
+    <Setting Name="XMLConfigMigAppChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="XMLConfigExcludeSysFoldersChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="XMLConfigMigUserChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="XMLConfigNetworkPrnChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BackupTargetOSChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BackupTargetOS2ChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EFSEnabledChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="EFSBackupEncryptChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="EFSEncryptKeyString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="EFSRestoreDecryptChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EFSDecryptKeyString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="EFSConfigAbortRdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EFSConfigSkipRdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EFSConfigDecryptCopyRdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EFSConfigCopyRawRdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StorageConfigTargetWin7ChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="StorageConfigLocalOnlyChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StorageConfigOverWriteChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StorageConfigNoCompressChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MonitoringConfigVerbosityChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MonitoringConfigVerbosityLevel" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="MonitoringConfigRetryChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MonitoringConfigRetryTime" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="MonitoringConfigWaitChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MonitoringConfigWaitTime" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="MonitoringConfigContinueOnErrorChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MonitoringConfigSpaceEstimateChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="XMLConfigCustUsersChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="XMLConfigCustAppsChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="XMLConfigExcludeDrivesChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MonitoringNetworkLogChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MonitoringProgressLogChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BackupTargetOSWin10RdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BackupSourceOSWin10RdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BackupSourceOSWin7RdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BackupTargetOSWin7RdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="StorageConfigTargetWin8ChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="XMLConfigMigDocsChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="XMLConfigConfigChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StorageConfigVscChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StorageConfigHardlinkChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MonitoringConfigListFilesChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ConfigCPUx86RdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ConfigCPUAMD64RdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UserAcctsExcludeAllRdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UserAcctsExcludeLocalRdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UserAcctsExcludeDomainRdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UserAcctsExcludeDays" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="UserAcctsExcludeDate" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="UserAcctsIncludeAllRdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UserAcctsIncludeLocalRdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UserAcctsIncludeDomainRdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UserAcctsIncludeSelectedUsersRdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LocalDriveLetterDataShare" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">F</Value>
+    </Setting>
+    <Setting Name="LocalDriveDataShareChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BackupBackupRdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BackupRestoreRdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BackupMethodUser" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LocalLogDataDriveChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MonitoringEnableBareTailLogChkBx" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Usmt5Exex86Folder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">x86</Value>
+    </Setting>
+    <Setting Name="Usmt5ExeAmd64Folder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Amd64</Value>
+    </Setting>
+    <Setting Name="BackupSourceOSWin8RdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BackupTargetOSWin8RdBtn" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="XmlCustomFilesFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\CustomXML</Value>
+    </Setting>
+    <Setting Name="UNCUsmtDrivePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\&lt;ServerName&gt;\&lt;Share&gt;$</Value>
+    </Setting>
+    <Setting Name="USMTFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">USMT1903</Value>
+    </Setting>
+    <Setting Name="DataStoreFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DataStore</Value>
+    </Setting>
+    <Setting Name="MigAppXMLFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\MigApp.xml</Value>
+    </Setting>
+    <Setting Name="MigUserXMLFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\MigUserShared.xml</Value>
+    </Setting>
+    <Setting Name="MigDocsXMLFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\MigDocs.xml</Value>
+    </Setting>
+    <Setting Name="CustAppXMLFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\CustApp.xml</Value>
+    </Setting>
+    <Setting Name="CustUserXMLFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\CustUser.xml</Value>
+    </Setting>
+    <Setting Name="NetworkPrinterXMLFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\NetworkPrinters.xml</Value>
+    </Setting>
+    <Setting Name="ExcludeDrivesXMLFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\ExcludeDrives_D_to_Z.xml</Value>
+    </Setting>
+    <Setting Name="ExcludeSystemFoldersXMLFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\ExcludeSystemFolders.xml</Value>
+    </Setting>
+    <Setting Name="ConfigSXMLFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\ConfigS.xml</Value>
+    </Setting>
+    <Setting Name="ConfigLXMLFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\ConfigL.xml</Value>
+    </Setting>
+    <Setting Name="Cust1XMLFIle" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\Custom1.xml</Value>
+    </Setting>
+    <Setting Name="Cust2XMLFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\</Value>
+    </Setting>
+    <Setting Name="Cust3XMLFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\</Value>
+    </Setting>
+    <Setting Name="UNCServerFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\MDT01</Value>
+    </Setting>
+    <Setting Name="XMLConfigCust1ChkBx" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="XMLConfigCust2ChkBx" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="XMLConfigCust3ChkBx" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UNCShareFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\test</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
