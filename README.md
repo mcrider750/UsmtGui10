@@ -4,7 +4,7 @@ wrapper for scanstate and loadstate using vb.net
 Configuration is done with usmtgui10.exe.config file
 will run from network share or unc path.
 
-![Backup/Retore](../master/images/USMTGUI_Backup.png)
+![Backup/Retore](../images/USMTGUI_Backup.png)
 
 ![Users](../master/images/USMTGUI_Users.png)
 
